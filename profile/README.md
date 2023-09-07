@@ -2,6 +2,7 @@
 
 iDEN.iT Github 사용 가이드입니다.
 
+<br>
 
 ## 🔖 Repository Convention
 
@@ -35,6 +36,7 @@ Repository는 프론트와 백엔드, 프로젝트의 구분으로 prefix를 사
   1. `BE_orderhero-admin`
   2. `BE_orderhero-client`
 
+<br>
 
 ## ✅ Commit Message
 
