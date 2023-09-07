@@ -62,4 +62,4 @@ Repository는 프론트와 백엔드, 프로젝트의 구분으로 prefix를 사
 - `fix`
   - `fix: 버튼 UI 개선`
 - `docs`
-  - `docs: README.md 추가 가이드 작`
+  - `docs: README.md 추가 가이드 작성`
